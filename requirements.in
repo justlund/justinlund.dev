@@ -1,0 +1,9 @@
+gunicorn
+flask
+markdown2
+pygments
+h11
+gevent
+attrs
+werkzeug<1
+whitenoise
